@@ -68,6 +68,11 @@ display: none;
 }
 [data-date]:before {
    content: attr(data-date);
+   position: absolute;
+   top:0;
+   left:0;
+   width: 40%;
+   padding: 5px;
 }
 }
 
@@ -75,3 +80,13 @@ display: none;
    Tablet and Desktop Styles: greater than 640px
    =============================================
 */
+@media only screen and (min-width: 641px){
+
+table{
+   background-image: url(lht_photo1.png);
+   border:double rgb(154, 64, 3);
+   
+}
+
+
+}
