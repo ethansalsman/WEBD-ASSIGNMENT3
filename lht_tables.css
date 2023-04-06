@@ -103,7 +103,7 @@ display: none;
       vertical-align: top;
     }
    
-    }
+    
     td{
       background-color: rgb(171, 171, 171, 0.6);
       color: rgb(11, 12, 145);
@@ -127,5 +127,5 @@ display: none;
       background-color: rgb(154, 64, 3);
       color: white;
     }
-  
-
+   }
+   
